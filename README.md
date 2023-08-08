@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeovaneBausen2023
+- 👋 Hi, I’m Geovane Bausen
 - 👀 I’m interested in Knowledge, coffee and fun
 - 🌱  I am currently learning about object-oriented programming, agile project development, database and user experience (UX) design.
 - 💞️  I am focused on participating in open source projects, looking for opportunities to contribute, as well as being in search of a job in the area
