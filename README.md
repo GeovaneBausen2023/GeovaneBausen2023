@@ -5,4 +5,5 @@
 
 💞️ Estou focado e em busca de oportunidades para contribuir :)
 Já possuo uma base em desenvolvimento front-end, produção de mídias digitais, ferramentas de trabalho colaborativo, lógica de programação e estrutura e organização de computadores.
+
 📫 Para entrar em contato comigo, utilize o e-mail geovane-bausen@hotmail.com
