@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Geovane Bausen
-- 👀 I’m interested in Knowledge, coffee and fun
-- 🌱  I am currently learning about object-oriented programming, agile project development, database and user experience (UX) design.
-- 💞️  I am focused on participating in open source projects, looking for opportunities to contribute :)
-- 📫 How to reach me geovane-bausen@hotmail.com
-
-<!---
-GeovaneBausen2023/GeovaneBausen2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá, eu sou Geovane Bausen.
+👀 Tenho interesse em conhecimento, café e diversão...
+🌱 Atualmente estou no segundo período do curso de TSI no IFES, onde estou aprendendo sobre Análise de Sistemas, Programação Orientada a Objetos, Metodologias Ágeis, Desenvolvimento Back-end, Banco de Dados e Design de Experiência do Usuário.
+💞️ Estou focado e em busca de oportunidades para contribuir :)
+Já possuo uma base em desenvolvimento front-end, produção de mídias digitais, ferramentas de trabalho colaborativo, lógica de programação e estrutura e organização de computadores.
+📫 Para entrar em contato comigo, utilize o e-mail geovane-bausen@hotmail.com
